@@ -1,8 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=Hi+I'm+Vinod+Kumar+Kasipuri;Tableau+Developer;Power+BI+Developer;SQL+%7C+Python+%7C+Azure+Data+Engineering;Business+Intelligence+Professional" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F4C81,100:00C6FF&text=Vinod%20Kumar%20Kasipuri&fontColor=ffffff&fontSize=42&fontAlignY=40&animation=fadeIn"/>
 </p>
 
----
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+</p>
 
 ## 👨‍💻 About Me
 
