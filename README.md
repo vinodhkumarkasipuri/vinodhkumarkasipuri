@@ -50,8 +50,15 @@
 
 ## 🌐 Connect with Me
 
-- 💼 LinkedIn: https://linkedin.com/in/vinodkumarkasipuri
-- 📊 Tableau Public: https://public.tableau.com/app/profile/vinod.kumark/vizzes
+<p align="center">
+<a href="https://linkedin.com/in/vinodkumarkasipuri">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://public.tableau.com/app/profile/vinod.kumark/vizzes">
+<img src="https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau"/>
+</a>
+</p>
 
 ---
 
@@ -73,12 +80,13 @@
 
 ---
 
-# 🏆 GitHub Trophies
+---
+
+# 📈 GitHub Activity Graph
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vinodhkumarkasipuri&theme=algolia&row=1&column=6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinodhkumarkasipuri&theme=github-compact&hide_border=true" />
 </p>
-
 
 ---
 
