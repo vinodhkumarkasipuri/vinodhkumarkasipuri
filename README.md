@@ -2,12 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=Hi+I'm+Vinod+Kumar+Kasipuri;Tableau+Developer;Power+BI+Developer;SQL+%7C+Python+%7C+Azure+Data+Engineering;Business+Intelligence+Professional" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Vinod Kumar Kasipuri</h1>
-
-<h3 align="center">
-Senior BI Developer | Tableau | Power BI | SQL | Python | Azure Data Engineering
-</h3>
-
 ---
 
 ## 👨‍💻 About Me
