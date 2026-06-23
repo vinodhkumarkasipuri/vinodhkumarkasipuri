@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vinod Kumar Kasipuri</h1>
 
-<!--
-**vinodhkumarkasipuri/vinodhkumarkasipuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Tableau Developer | SQL | Python | Azure Data Engineering | Business Intelligence
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 💼 Tableau Developer at Wipro
+- 📊 Passionate about Data Analytics & Business Intelligence
+- 🏦 Experience in Banking and Healthcare domains
+- 🌱 Currently learning Azure Data Engineering
+- 📍 Hyderabad, India
+
+---
+
+## 🛠️ Tech Stack
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 Featured Projects
+
+- 📈 Sales & Profit Dashboard
+- 🏦 Customer Churn Analysis
+- 🏥 Healthcare Capital Expense Dashboard
+- 📺 YouTube Revenue Dashboard
+
+---
+
+## 🏆 Certifications
+
+- ✅ Tableau Fundamentals
+- ✅ Google Gemini Enterprise Solutions
+
+---
+
+## 🌐 Connect with Me
+
+- 💼 LinkedIn: https://linkedin.com/in/vinodkumarkasipuri
+- 📊 Tableau Public: https://public.tableau.com/app/profile/vinod.kumark/vizzes
