@@ -65,6 +65,15 @@
 
 ---
 
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=vinodhkumarkasipuri&theme=algolia&row=1&column=6" />
+</p>
+
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vinodhkumarkasipuri&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
