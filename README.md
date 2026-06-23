@@ -2,7 +2,6 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F4C81,100:00C6FF&text=Vinod%20Kumar%20Kasipuri&fontColor=ffffff&fontSize=42&fontAlignY=40&animation=fadeIn"/>
 </p>
 
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 </p>
