@@ -1,7 +1,11 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=Hi+I'm+Vinod+Kumar+Kasipuri;Tableau+Developer;Power+BI+Developer;SQL+%7C+Python+%7C+Azure+Data+Engineering;Business+Intelligence+Professional" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Vinod Kumar Kasipuri</h1>
 
 <h3 align="center">
-Tableau Developer | Power BI | SQL | Python | Azure Data Engineering | Business Intelligence
+Senior BI Developer | Tableau | Power BI | SQL | Python | Azure Data Engineering
 </h3>
 
 ---
@@ -46,3 +50,10 @@ Tableau Developer | Power BI | SQL | Python | Azure Data Engineering | Business 
 
 - 💼 LinkedIn: https://linkedin.com/in/vinodkumarkasipuri
 - 📊 Tableau Public: https://public.tableau.com/app/profile/vinod.kumark/vizzes
+
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vinodhkumarkasipuri&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
